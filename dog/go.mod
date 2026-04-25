@@ -1,7 +1,5 @@
-module example.com/dog
+module github.com/Roma4286/Lab4-Go/dog
 
 go 1.20
 
-require example.com/animal v0.0.0
-
-replace example.com/animal => ../animal
+require github.com/Roma4286/Lab4-Go/animal v0.0.0

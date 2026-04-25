@@ -1,11 +1,8 @@
-module example.com/main
+module github.com/Roma4286/Lab4-Go/main
 
 go 1.20
 
 require (
-	example.com/dog v0.0.0
-	example.com/cat v0.0.0
+	github.com/Roma4286/Lab4-Go/dog v0.0.0
+	github.com/Roma4286/Lab4-Go/cat v0.0.0
 )
-
-replace example.com/dog => ../dog
-replace example.com/cat => ../cat
