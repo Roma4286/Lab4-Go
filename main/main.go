@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"example.com/dog"
-	"example.com/cat"
+	"github.com/Roma4286/Lab4-Go/dog"
+	"github.com/Roma4286/Lab4-Go/cat"
 )
 
 func main() {

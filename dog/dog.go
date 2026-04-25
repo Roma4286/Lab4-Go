@@ -1,6 +1,6 @@
 package dog
 
-import "example.com/animal"
+import "github.com/Roma4286/Lab4-Go/animal"
 
 type Dog struct {
 	animal.Animal
